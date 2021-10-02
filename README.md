@@ -1,2 +1,1 @@
-# class36
-speed racer class1
+# C36_SpeedRacer_TeacherActivity
